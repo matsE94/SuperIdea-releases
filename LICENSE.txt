@@ -1,0 +1,28 @@
+SuperIdea binary terms
+
+These terms apply only to the SuperIdea-owned material in the distributed
+application package. Third-party components are governed by their own licenses
+and notices included with the package.
+
+You may use SuperIdea without charge for personal or workplace purposes. You may
+redistribute an unchanged complete package, provided you retain
+all included notices and distribute the matching third-party source archive
+alongside it. For online distribution, the matching source archive must be
+available from the same download location as the package.
+
+These terms do not limit any rights granted by a third-party license or by
+mandatory law. In particular, you may modify the work for your own use and
+reverse engineer it to debug those modifications, and exercise the rights to
+modify, replace and relink third-party libraries that their licenses grant.
+The condition on redistributing an unchanged SuperIdea package does not limit
+those own-use rights or redistribution of third-party components under their
+own licenses. These terms do not grant access to SuperIdea source code.
+
+SuperIdea is provided "as is", without warranty of any kind, express or
+implied, to the extent permitted by applicable law. To the extent permitted by
+applicable law, its authors and distributors are not liable for damages arising
+from its use or distribution. Nothing in these terms excludes or limits a right
+or liability that cannot be excluded or limited under mandatory law.
+
+No permission is granted to use a name, trademark or logo to imply endorsement
+of a modified or redistributed product.
